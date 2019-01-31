@@ -1,0 +1,16 @@
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.MenuScreen.resources
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.MainGame.resources
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\Interop.WMPLib.dll
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\Interop.WMPLib.dll
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.ResolveComReference.cache
+C:\Users\thean\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
