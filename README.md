@@ -12,4 +12,5 @@ Lives: There are 2 extra lives given. Displayed on the bottom left corner of the
 Win: You win after beating round 7. 
 
 GodMode: Prevents death and turns Spacebar bullet into instant kill of every enemy on screen.
+
 -------------------------------------------------------------------------------------------------------------------------------------------
