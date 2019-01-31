@@ -17,3 +17,6 @@ GodMode: Prevents death and turns Spacebar bullet into instant kill of every ene
 # Screenshots
 
 ![Gameplay](https://drive.google.com/uc?export=view&id=16vy_K_J7iBs8fsAgSIafFZ1CXkBXxOGn)
+
+![Home Screen](https://drive.google.com/uc?export=view&id=1-OWx6N-DRI03k95CV-5E4NVMSB7l-lGB)
+
